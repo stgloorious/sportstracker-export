@@ -2,7 +2,7 @@
 
 ![check](https://github.com/stgloorious/sportstracker-export/actions/workflows/pylint.yml/badge.svg)
 
-Export all your Sports Tracker workouts to `*.gpx` file to import them to other services.
+Export your Sports Tracker workouts to `*.gpx` files to import them on other platforms (e.g., Strava).
 
 ## Use
 - [Install uv](https://docs.astral.sh/uv/getting-started/installation/)
