@@ -1,4 +1,7 @@
 # Sports Tracker GPX Export
+
+![check](https://github.com/stgloorious/sportstracker-export/actions/workflows/pylint.yml/badge.svg)
+
 Export all your workouts in `*.gpx` format.
 
 ## Setup
